@@ -1,0 +1,1273 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-16",
+        "firenumber": 1492,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 7,
+        "lat": null,
+        "long": null,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 10,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-22",
+        "firenumber": 1651,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": null,
+        "long": null,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 16,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-01",
+        "firenumber": 26,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": null,
+        "long": null,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 18,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-05",
+        "firenumber": 155,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": null,
+        "long": null,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 21,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-25",
+        "firenumber": 1758,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 7,
+        "lat": null,
+        "long": null,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 41,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-11",
+        "firenumber": 1329,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": null,
+        "long": null,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 42,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-24",
+        "firenumber": 1722,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": null,
+        "long": null,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 44,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-03-04",
+        "firenumber": 1970,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": null,
+        "long": null,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 47,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-07",
+        "firenumber": 220,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.561932999999996,
+        "long": -121.10185,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 1,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.10185,
+          35.561933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-05",
+        "firenumber": 163,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.41315,
+        "long": -120.60893300000002,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 2,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.608933,
+          35.41315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-02",
+        "firenumber": 68,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.45655,
+        "long": -120.62314999999998,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 3,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.62315,
+          35.45655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-03",
+        "firenumber": 93,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.16685,
+        "long": -120.569633,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 4,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.569633,
+          35.16685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-11",
+        "firenumber": 346,
+        "totalacres": 0.05,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.316182999999995,
+        "long": -120.73976699999999,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 5,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.739767,
+          35.316183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-16",
+        "firenumber": 519,
+        "totalacres": 0.1,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.1176,
+        "long": -120.62816699999999,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 6,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.628167,
+          35.1176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-03-08",
+        "firenumber": 2098,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.42485,
+        "long": -120.781183,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 7,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.781183,
+          35.42485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-26",
+        "firenumber": 1774,
+        "totalacres": 0.16,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 5,
+        "lat": 35.470282999999995,
+        "long": -120.74724999999998,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 8,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.74725,
+          35.470283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-10",
+        "firenumber": 1285,
+        "totalacres": 0.1,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.546617,
+        "long": -121.06625,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 9,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.06625,
+          35.546617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-28",
+        "firenumber": 903,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.74155,
+        "long": -120.249933,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 11,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.249933,
+          35.74155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-09",
+        "firenumber": 1259,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.107732999999996,
+        "long": -120.391083,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 12,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.391083,
+          35.107733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-10",
+        "firenumber": 1273,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.685867,
+        "long": -120.69878299999999,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 13,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.698783,
+          35.685867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-12",
+        "firenumber": 389,
+        "totalacres": 22,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 34.993666999999995,
+        "long": -120.34466700000002,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 14,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.344667,
+          34.993667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-06",
+        "firenumber": 1158,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.571782999999996,
+        "long": -120.704183,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 15,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.704183,
+          35.571783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-28",
+        "firenumber": 900,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.672616999999995,
+        "long": -120.65866699999998,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 17,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.658667,
+          35.672617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-06",
+        "firenumber": 183,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.106432999999996,
+        "long": -120.387883,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 19,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.387883,
+          35.106433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-11",
+        "firenumber": 339,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.660817,
+        "long": -120.587233,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 20,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.587233,
+          35.660817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-05",
+        "firenumber": 157,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 8,
+        "lat": 35.0435,
+        "long": -120.57253299999998,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 22,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.572533,
+          35.0435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-16",
+        "firenumber": 505,
+        "totalacres": 1,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 5,
+        "lat": 35.318616999999996,
+        "long": -120.847233,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 23,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.847233,
+          35.318617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-05",
+        "firenumber": 169,
+        "totalacres": 0.2,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.012767,
+        "long": -120.45736700000002,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 24,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.457367,
+          35.012767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-15",
+        "firenumber": 475,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.20895,
+        "long": -120.63343300000001,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 25,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.633433,
+          35.20895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-16",
+        "firenumber": 484,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.2074,
+        "long": -120.557033,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 26,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.557033,
+          35.2074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-23",
+        "firenumber": 734,
+        "totalacres": 0.25,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.314282999999996,
+        "long": -120.84480000000002,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 27,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8448,
+          35.314283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-18",
+        "firenumber": 584,
+        "totalacres": 0.2,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.143117,
+        "long": -120.64066700000001,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 28,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.640667,
+          35.143117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-19",
+        "firenumber": 627,
+        "totalacres": 0.1,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 7,
+        "lat": 35.65545,
+        "long": -120.37601699999999,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 29,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.376017,
+          35.65545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-25",
+        "firenumber": 805,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.518183,
+        "long": -120.52501699999999,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 30,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.525017,
+          35.518183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-18",
+        "firenumber": 576,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.174316999999995,
+        "long": -120.717617,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 31,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.717617,
+          35.174317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-29",
+        "firenumber": 931,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.5475,
+        "long": -120.69884999999998,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 32,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.69885,
+          35.5475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-30",
+        "firenumber": 948,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.138033,
+        "long": -120.92800000000001,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 33,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.928,
+          35.138033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-02",
+        "firenumber": 1054,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.219533,
+        "long": -120.62545,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 34,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.62545,
+          35.219533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-10",
+        "firenumber": 1288,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 7,
+        "lat": 35.1428,
+        "long": -120.633133,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 35,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.633133,
+          35.1428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-05",
+        "firenumber": 1129,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 9,
+        "lat": 35.068933,
+        "long": -120.51735,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 36,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.51735,
+          35.068933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-15",
+        "firenumber": 1452,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.65515,
+        "long": -120.367817,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 37,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.367817,
+          35.65515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-12",
+        "firenumber": 1358,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 7,
+        "lat": 35.0178,
+        "long": -120.499717,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 38,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.499717,
+          35.0178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-01-13",
+        "firenumber": 405,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.557483,
+        "long": -120.559483,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 39,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.559483,
+          35.557483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-15",
+        "firenumber": 1464,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.486967,
+        "long": -120.99910000000001,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 40,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9991,
+          35.486967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-22",
+        "firenumber": 1652,
+        "totalacres": 0.1,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 4,
+        "lat": 35.551300000000005,
+        "long": -120.69673299999998,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 43,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.696733,
+          35.5513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-03-15",
+        "firenumber": 2305,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.137417,
+        "long": -120.630433,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 45,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.630433,
+          35.137417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": 3,
+        "unit": "SLU",
+        "date": "2014-02-15",
+        "firenumber": 1451,
+        "totalacres": 0,
+        "firename": null,
+        "year": 2014,
+        "cause_usfs": 2,
+        "lat": 35.576232999999995,
+        "long": -120.702817,
+        "subunit": null,
+        "latitude": null,
+        "longitude": null,
+        "cartodb_id": 46,
+        "created_at": "2014/07/09",
+        "updated_at": "2014/07/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.702817,
+          35.576233
+        ]
+      }
+    }
+  ]
+}
